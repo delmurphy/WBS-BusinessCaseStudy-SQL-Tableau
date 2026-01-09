@@ -71,19 +71,19 @@ The final outcome is a short presentation (3–5 minutes) aimed at Eniac’s lea
     - Estimated delivery times are long and vary significantly by region
       - São Paulo: ~19 days estimated / ~8 days actual
       - Roraima: up to ~46 days estimated / ~29 days actual
-  - That said, Magist’s actual delivery times (≈12 days on average) are better than the Brazilian national average for e-commerce deliveries (~16 days). In a Brazilian context, Magist performs reasonably well — but expectations would need to be managed for customers used to faster European shipping 
+  - That said, Magist’s actual delivery times (≈12 days on average) are better than the Brazilian national average for online deliveries (~16 days). In a Brazilian context, Magist performs reasonably well — but expectations would need to be managed for customers used to faster European shipping 
 
 - **Customer satisfaction is generally strong**
   - Customer reviews suggest that Magist users are mostly satisfied:
     - Average review score: 4.1 / 5
-  - Tech orders score slightly lower (~3.95) but still positive
+    - Tech orders score slightly lower (~3.95) but still positive
   - This indicates that long delivery times are likely accepted as normal within the Brazilian market, and Magist meets local customer expectations 
 
 ------------------------------------------------------------
 
 # Overall Takeaway
 
-- Magist is operationally reliable and performs well relative to Brazilian e-commerce norms.
+- Magist is operationally reliable and performs well relative to Brazilian online norms.
 - Delivery speed is acceptable for Brazil, but slower and less predictable than what Eniac customers in Europe may expect.
 - Customer satisfaction with Magist is generally high.
 - Product and pricing mismatch is the biggest concern: Magist is geared toward lower-priced tech products, while Eniac operates in a premium segment.
